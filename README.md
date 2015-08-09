@@ -9,7 +9,7 @@ Also, this works fine in a ReactJS app in Chrome without Meteor, it's only when 
 So far I've got it 1/2 working in Chrome (but only if do this):
 
 1. Add this to index.html:
-    <meta name="viewport" content="initial-scale=1" />
+    `<meta name="viewport" content="initial-scale=1" />`
 
 2. In Chrome Developer Tools turn on mobile device mode i.e. `Toggle device mode`.
 
